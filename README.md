@@ -10,7 +10,7 @@ The files that specifies the behaviour of the application are at the follow loca
 _Fingerprint-Authentication-Android-App/src/main/java/com/example/fingerprintauthentication_
 
 The files that specifies the style of the application are at the follow location: 
-<p style="color:blue">Fingerprint-Authentication-Android-App/src/main/res/layout</p>
+_Fingerprint-Authentication-Android-App/src/main/res/layout_
 
 Below are some screenshots illustrating the operation of the application.
 
