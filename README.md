@@ -7,10 +7,10 @@ The project was developed with Android Studio.
 To run the app clone this project and open it from Android Studio.
 
 The files that specifies the behaviour of the application are at the follow location: 
-Fingerprint-Authentication-Android-App/src/main/java/com/example/fingerprintauthentication
+_Fingerprint-Authentication-Android-App/src/main/java/com/example/fingerprintauthentication_
 
 The files that specifies the style of the application are at the follow location: 
-Fingerprint-Authentication-Android-App/src/main/res/layout
+<p style="color:blue">Fingerprint-Authentication-Android-App/src/main/res/layout</p>
 
 Below are some screenshots illustrating the operation of the application.
 
