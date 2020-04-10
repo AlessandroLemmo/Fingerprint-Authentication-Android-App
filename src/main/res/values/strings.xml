@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerprintAuthentication</string>
+    <string name="AuthenticationApp">AuthenticationApp</string>
+</resources>
