@@ -14,6 +14,7 @@ _Fingerprint-Authentication-Android-App/src/main/res/layout_
 
 Below are some screenshots illustrating the operation of the application.
 
+- Example of sequence for the authentication with fingerprint:
 
 <img src="https://user-images.githubusercontent.com/47114787/79024415-29c61100-7b83-11ea-92c1-16d591d5f548.jpg" width="280" height="500" align="left">
 
@@ -21,6 +22,7 @@ Below are some screenshots illustrating the operation of the application.
 
 <img src="https://user-images.githubusercontent.com/47114787/79025152-406d6780-7b85-11ea-8ac8-71ceaf1b2711.jpg" width="280" height="500">
 
+- Example of sequence for the authentication with username and password:
 
 <img src="https://user-images.githubusercontent.com/47114787/79025463-1b2d2900-7b86-11ea-860e-4aa029199635.jpg" width="280" height="500" align="left">
 
