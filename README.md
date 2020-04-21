@@ -5,10 +5,9 @@ The project implements an Android application for authentication with fingerprin
 
 The project was developed with Android Studio and the API _FingerprintManager_. The application work with Android Marshmallow or newer versions. To run the app clone or download this project and open it from Android Studio.
 
-The files that specifies the behaviour of the application are at the follow location: 
+- The files that specifies the behaviour of the application are at the follow location: 
 [click here](https://github.com/AlessandroLemmo/Fingerprint-Authentication-Android-App/tree/master/src/main/java/com/example/fingerprintauthentication)
-
-The files that specifies the activities of the application are at the follow location: 
+- The files that specifies the activities of the application are at the follow location: 
 [click here](https://github.com/AlessandroLemmo/Fingerprint-Authentication-Android-App/tree/master/src/main/res/layout)
 
 
